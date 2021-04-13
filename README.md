@@ -2,7 +2,6 @@
 ## Version
 * Info: HC-06 Baud Rate
 * Developer: HHH
-* Email: harry.hoa.huynh.01@gmail.com
 * Date: 4/2021
 
 ## Introduction
