@@ -1,6 +1,6 @@
 
 //Verify Baudrate
-//Date: 04/12//2020
+//Date: 04/2021
 //HC06: JY-MCU V1.06
 //Serial Port set up: 9600 baud, Both NL&CR
 //Return should be 115200 with a message "Ok"
