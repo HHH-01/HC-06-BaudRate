@@ -4,8 +4,9 @@
 * Developer: HHH
 
 ## Goal
-1. Test functionality of HC-06 by verifying Baud Rate for later AT Commands
-* Notice that it happened to a lot of people including myself that I can't get to AT Mode. It's mainly due to the wrong baud rate set up when trying to commnunicate with the HC-06.
+Test functionality of HC-06 by verifying Baud Rate for later AT Commands. Notice that it happened to a lot of people including myself that I can't get to AT Mode using HC-06. It's mainly due to the wrong baud rate set up when trying to commnunicate with the HC-06.
+
+Different than HC-05, HC-06 is in the AT mode by default when it's not connected to a Master. The only way to configure HC-06 is to directly connect to it and send AT command, no need to hold button or set High/Low to any pins. The red LED indicator keeps blinking during an initial turn on showing that it's in the AT Mode.  
 
 
 ## Connection
