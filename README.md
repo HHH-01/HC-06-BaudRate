@@ -1,11 +1,9 @@
 
 ## Version
-* Info: HC-06 Baud Rate
+* Info: HC-06 Baud Rate | Date: 4/2021
 * Developer: HHH
-* Date: 4/2021
 
-## Introduction
-Task:
+## Goal
 1. Test functionality of HC-06 by verifying Baud Rate for later AT Commands
 * Notice that it happened to a lot of people including myself that I can't get to AT Mode. It's mainly due to the wrong baud rate set up when trying to commnunicate with the HC-06.
 
